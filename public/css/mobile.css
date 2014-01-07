@@ -1,0 +1,19 @@
+@media (max-width: 700px) {
+
+body {
+    min-width: 550px;
+}
+
+
+}
+
+ 
+
+
+
+
+/*To hide things from non-mobile users*/
+ @media (min-width: 700px) {
+
+
+ }
