@@ -4,7 +4,7 @@ backbone-marionette-require-handlebars-node-boilerplate
 This is the setup I use with [RedditJS](https://github.com/BenjaminAdams/RedditJS).  I thought I would strip it down so myself and others can use it as a good starting point for projects.
 
 
-####This boiler plat is built with :
+####This boiler plate is built with :
  * Node.js <http://nodejs.org/>
  * Backbone.js <https://github.com/jashkenas/backbone>
  * Underscore.js <https://github.com/jashkenas/underscore>
