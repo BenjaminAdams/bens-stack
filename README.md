@@ -1,4 +1,4 @@
-backbone-marionette-require-handlebars-node-boilerplate
+Ben's stack
 =======================================================
 
 This is the setup I use with [RedditJS](https://github.com/BenjaminAdams/RedditJS).  I thought I would strip it down so myself and others can use it as a good starting point for projects.
